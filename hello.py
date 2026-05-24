@@ -1,3 +1,3 @@
 
 name='Rishab'
-print("Hello"+name+",you just wrote your first code")
+print("Hi"+name+",you just wrote your first code")
